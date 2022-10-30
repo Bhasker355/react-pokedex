@@ -1,0 +1,17 @@
+.pokedex {
+  display: flex;
+  /* align-items: center; */
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.pococard-ind {
+  margin: 10px;
+}
+.winner {
+  color: green;
+  text-align: center;
+}
+.losser {
+  color: red;
+  text-align: center;
+}
